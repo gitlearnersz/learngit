@@ -5,3 +5,4 @@ nihao
 goodjob
 Creating a new branch is quick.
 Test branch merge.
+branch merge is so simple, so easy.
