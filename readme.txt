@@ -4,3 +4,4 @@ hello
 nihao
 goodjob
 Creating a new branch is quick.
+Test branch merge.
