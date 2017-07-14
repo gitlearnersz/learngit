@@ -7,3 +7,4 @@ Creating a new branch is quick.
 Test branch merge.
 test conflict!
 branch merge is so simple, so easy.
+using stash3.
